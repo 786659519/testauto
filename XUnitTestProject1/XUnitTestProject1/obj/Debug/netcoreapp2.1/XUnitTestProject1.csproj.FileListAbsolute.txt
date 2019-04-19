@@ -12,3 +12,17 @@ C:\Users\asus\source\repos\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcore
 C:\Users\asus\source\repos\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
 C:\Users\asus\source\repos\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
 C:\Users\asus\source\repos\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojResolveAssemblyReference.cache
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
