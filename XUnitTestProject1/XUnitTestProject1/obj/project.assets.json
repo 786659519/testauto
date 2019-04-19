@@ -22,18 +22,6 @@
           }
         }
       },
-      "AllureCSharpCommons/0.2.0": {
-        "type": "package",
-        "dependencies": {
-          "log4net": "2.0.3"
-        },
-        "compile": {
-          "lib/net40/AllureCSharpCommons.dll": {}
-        },
-        "runtime": {
-          "lib/net40/AllureCSharpCommons.dll": {}
-        }
-      },
       "BoDi/1.4.1": {
         "type": "package",
         "compile": {
@@ -56,15 +44,6 @@
         },
         "runtime": {
           "lib/netstandard2.0/Gherkin.dll": {}
-        }
-      },
-      "log4net/2.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/net40-full/log4net.dll": {}
-        },
-        "runtime": {
-          "lib/net40-full/log4net.dll": {}
         }
       },
       "Microsoft.CodeCoverage/15.9.0": {
@@ -1800,17 +1779,6 @@
         "lib/netstandard2.0/Allure.Commons.dll"
       ]
     },
-    "AllureCSharpCommons/0.2.0": {
-      "sha512": "Vyz6Wzdmmm6ECWbDXiG24KGLQfsifCzUAKwtTwh2HyIg5KYxl3mpZKlZL4+tRyX7XjBZgWXM+rozGoQvaLl5eQ==",
-      "type": "package",
-      "path": "allurecsharpcommons/0.2.0",
-      "files": [
-        ".signature.p7s",
-        "allurecsharpcommons.0.2.0.nupkg.sha512",
-        "allurecsharpcommons.nuspec",
-        "lib/net40/AllureCSharpCommons.dll"
-      ]
-    },
     "BoDi/1.4.1": {
       "sha512": "NqveN4BxFIvnIvGkEjnSG4kB7lBNkOMu7XFxjaOZE6R29NwmQnwW1/vq/OPEM5LkEcW33ye/tf8KPrQ4uZgmbg==",
       "type": "package",
@@ -1838,30 +1806,6 @@
         "gherkin.nuspec",
         "lib/net45/Gherkin.dll",
         "lib/netstandard2.0/Gherkin.dll"
-      ]
-    },
-    "log4net/2.0.3": {
-      "sha512": "tc/s3qqjL7Q+iV77ACG0UW+gYe/gKWT4BCPXfgV1aWVn2WlsRdkKt5SRZCxuIYFzl7HbaJs2VxpEYp80hYpGNA==",
-      "type": "package",
-      "path": "log4net/2.0.3",
-      "files": [
-        ".signature.p7s",
-        "lib/net10-full/log4net.dll",
-        "lib/net10-full/log4net.xml",
-        "lib/net11-full/log4net.dll",
-        "lib/net11-full/log4net.xml",
-        "lib/net20-full/log4net.dll",
-        "lib/net20-full/log4net.xml",
-        "lib/net35-client/log4net.dll",
-        "lib/net35-client/log4net.xml",
-        "lib/net35-full/log4net.dll",
-        "lib/net35-full/log4net.xml",
-        "lib/net40-client/log4net.dll",
-        "lib/net40-client/log4net.xml",
-        "lib/net40-full/log4net.dll",
-        "lib/net40-full/log4net.xml",
-        "log4net.2.0.3.nupkg.sha512",
-        "log4net.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/15.9.0": {
@@ -6073,7 +6017,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Allure.Commons >= 2.4.2.4",
-      "AllureCSharpCommons >= 0.2.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "SpecFlow >= 3.0.199",
@@ -6138,10 +6081,6 @@
             "target": "Package",
             "version": "2.4.0"
           },
-          "AllureCSharpCommons": {
-            "target": "Package",
-            "version": "0.2.0"
-          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "15.9.0"
@@ -6162,27 +6101,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1”而不是项目目标框架“.NETCoreApp,Version=v2.1”还原包“AllureCSharpCommons 0.2.0”。此包可能与项目不完全兼容。",
-      "libraryId": "AllureCSharpCommons",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1”而不是项目目标框架“.NETCoreApp,Version=v2.1”还原包“log4net 2.0.3”。此包可能与项目不完全兼容。",
-      "libraryId": "log4net",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }
