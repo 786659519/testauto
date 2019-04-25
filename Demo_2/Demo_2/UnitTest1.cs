@@ -2,7 +2,6 @@
 using System.Linq;
 using Xunit;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Firefox;
 using System.Collections.Generic;
 using Xunit.Abstractions;
 using OpenQA.Selenium.Chrome;
@@ -20,7 +19,7 @@ namespace Demo_2
             /// 输出对象
             /// </summary>
             private readonly ITestOutputHelper _abc;
-            /// <summary>
+            /// <summary>/////
             /// 构造函数，初始化输出对象
             /// </summary>
             /// <param name="output">注入输出对象</param>
