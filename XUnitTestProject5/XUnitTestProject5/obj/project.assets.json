@@ -1646,6 +1646,12 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "XunitXml.TestLogger/2.1.26": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/XunitXml.TestLogger.props": {}
+        }
       }
     }
   },
@@ -5676,6 +5682,20 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "XunitXml.TestLogger/2.1.26": {
+      "sha512": "XmaIzkB5PfKL7MxCmzDiJvvM6SyvQoN0J4a0EuzRlCjbcKlZQ8oxsJDZSKFq9cV0D2faPm3Ael3Gvitgy7J52Q==",
+      "type": "package",
+      "path": "xunitxml.testlogger/2.1.26",
+      "files": [
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll",
+        "build/net45/XunitXml.TestLogger.props",
+        "build/netstandard1.0/XunitXml.TestLogger.props",
+        "xunitxml.testlogger.2.1.26.nupkg.sha512",
+        "xunitxml.testlogger.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -5685,6 +5705,7 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "RestSharp >= 106.6.9",
       "Selenium.WebDriver >= 3.141.0",
+      "XunitXml.TestLogger >= 2.1.26",
       "xunit >= 2.4.0",
       "xunit.assert >= 2.4.1",
       "xunit.core >= 2.4.1",
@@ -5701,11 +5722,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\XUnitTestProject5\\XUnitTestProject5\\XUnitTestProject5.csproj",
+      "projectUniqueName": "F:\\testauto\\XUnitTestProject5\\XUnitTestProject5\\XUnitTestProject5.csproj",
       "projectName": "XUnitTestProject5",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\XUnitTestProject5\\XUnitTestProject5\\XUnitTestProject5.csproj",
+      "projectPath": "F:\\testauto\\XUnitTestProject5\\XUnitTestProject5\\XUnitTestProject5.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\XUnitTestProject5\\XUnitTestProject5\\obj\\",
+      "outputPath": "F:\\testauto\\XUnitTestProject5\\XUnitTestProject5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5771,6 +5792,10 @@
           "Allure.Commons": {
             "target": "Package",
             "version": "2.4.2.4"
+          },
+          "XunitXml.TestLogger": {
+            "target": "Package",
+            "version": "2.1.26"
           }
         },
         "imports": [
