@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "9da5d4d28663295462c1259b9781b38caac8f748"
+    "signature": "82f27afeaff24614a3c607c9c04d9532b5c0a722"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,9 +11,8 @@
           "Allure.Commons": "2.4.2.4",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "SpecFlow": "3.0.199",
+          "XunitXml.TestLogger": "2.1.26",
           "xunit": "2.4.0",
-          "xunit.analyzers": "0.10.0",
-          "xunit.runner.console": "2.4.1",
           "xunit.runner.visualstudio": "2.4.0"
         },
         "runtime": {
@@ -1112,12 +1111,12 @@
           }
         }
       },
-      "xunit.runner.console/2.4.1": {},
       "xunit.runner.visualstudio/2.4.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.9.0"
         }
-      }
+      },
+      "XunitXml.TestLogger/2.1.26": {}
     }
   },
   "libraries": {
@@ -1714,19 +1713,19 @@
       "path": "xunit.extensibility.execution/2.4.0",
       "hashPath": "xunit.extensibility.execution.2.4.0.nupkg.sha512"
     },
-    "xunit.runner.console/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ZOAIWPBvWIxpavMUiRho4Lc3SFR8dZV45kOWqOvnZy1/hipEIZjGcrH6ZXrrNjfGdifDjP/m18hEYE0Huk6JoA==",
-      "path": "xunit.runner.console/2.4.1",
-      "hashPath": "xunit.runner.console.2.4.1.nupkg.sha512"
-    },
     "xunit.runner.visualstudio/2.4.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-0k66QGvVZD03GA5/GVhcINzAu/JPNFYzzy9Dez4KGZKAq6qsYV7ajN22SyT8mbV0kjnJQDYf7IaZP7n/12lSoQ==",
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    },
+    "XunitXml.TestLogger/2.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XmaIzkB5PfKL7MxCmzDiJvvM6SyvQoN0J4a0EuzRlCjbcKlZQ8oxsJDZSKFq9cV0D2faPm3Ael3Gvitgy7J52Q==",
+      "path": "xunitxml.testlogger/2.1.26",
+      "hashPath": "xunitxml.testlogger.2.1.26.nupkg.sha512"
     }
   }
 }

@@ -26,3 +26,5 @@ F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTes
 F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
 F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
 F:\testauto\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+F:\testauto\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll

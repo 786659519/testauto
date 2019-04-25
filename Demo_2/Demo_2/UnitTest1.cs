@@ -4,7 +4,6 @@ using Xunit;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using System.Collections.Generic;
-
 using Xunit.Abstractions;
 using OpenQA.Selenium.Chrome;
 
