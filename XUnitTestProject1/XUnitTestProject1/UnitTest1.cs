@@ -45,7 +45,7 @@ public class EqualExample
             driverData.Add(new object[] { 1, 2, 3 });
             driverData.Add(new object[] { 2, 4, 6 });
             driverData.Add(new object[] { 3, 4, 7 });
-            driverData.Add(new object[] { 4, 5, 9 });
+            driverData.Add(new object[] { 4, 4, 8 });
             driverData.Add(new object[] { 5, 6, 11 });
             return driverData;
         }
