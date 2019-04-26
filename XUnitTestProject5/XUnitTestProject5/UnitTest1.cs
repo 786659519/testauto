@@ -35,7 +35,7 @@ namespace XUnitTestProject5
         {
 
             var client = new RestClient("http://wcf.open.cnblogs.com/blog");
-            var request = new RestRequest("48HoursTopViewPosts/2", Method.GET);
+            var request = new RestRequest("48HoursTopViewPosts/3", Method.GET);
 
             IRestResponse response = client.Execute(request);
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
