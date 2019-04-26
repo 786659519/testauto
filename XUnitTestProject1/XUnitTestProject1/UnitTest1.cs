@@ -43,7 +43,7 @@ public class EqualExample
             var driverData = new List<object[]>();
             driverData.Add(new object[] { 1, 1, 2 });
             driverData.Add(new object[] { 1, 2, 3 });
-            driverData.Add(new object[] { 2, 3, 5 });
+            driverData.Add(new object[] { 2, 4, 6 });
             driverData.Add(new object[] { 3, 4, 7 });
             driverData.Add(new object[] { 4, 5, 9 });
             driverData.Add(new object[] { 5, 6, 11 });
