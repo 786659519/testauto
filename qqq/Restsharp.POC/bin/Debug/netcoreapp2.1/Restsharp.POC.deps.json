@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "d71d72f471f599c80ce2f6bc70abbbca6011c18f"
+    "signature": "4fff254c5e96252c9b52a125b31aee5541afd6b1"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0",
           "RestSharp": "106.4.0",
+          "XunitXml.TestLogger": "2.1.26",
           "xunit": "2.3.1",
           "xunit.runner.visualstudio": "2.3.1"
         },
@@ -1061,7 +1062,8 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0"
         }
-      }
+      },
+      "XunitXml.TestLogger/2.1.26": {}
     }
   },
   "libraries": {
@@ -1608,6 +1610,13 @@
       "sha512": "sha512-tblA8hxXBcyHMAaCjwD+bQmb4EuNoK37FB1iv4FVks5BinZQY24Sp44VrGjPqjbS9Zk+T2MHqK+QtFjyHkSJFQ==",
       "path": "xunit.runner.visualstudio/2.3.1",
       "hashPath": "xunit.runner.visualstudio.2.3.1.nupkg.sha512"
+    },
+    "XunitXml.TestLogger/2.1.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XmaIzkB5PfKL7MxCmzDiJvvM6SyvQoN0J4a0EuzRlCjbcKlZQ8oxsJDZSKFq9cV0D2faPm3Ael3Gvitgy7J52Q==",
+      "path": "xunitxml.testlogger/2.1.26",
+      "hashPath": "xunitxml.testlogger.2.1.26.nupkg.sha512"
     }
   }
 }
