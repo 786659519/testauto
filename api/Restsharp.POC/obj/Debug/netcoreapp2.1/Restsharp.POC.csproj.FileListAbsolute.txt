@@ -54,3 +54,17 @@ C:\Users\asus\Desktop\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.As
 C:\Users\asus\Desktop\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.AssemblyInfo.cs
 C:\Users\asus\Desktop\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.dll
 C:\Users\asus\Desktop\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.pdb
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\Restsharp.POC.deps.json
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\Restsharp.POC.runtimeconfig.json
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\Restsharp.POC.runtimeconfig.dev.json
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\Restsharp.POC.dll
+F:\testauto\api\Restsharp.POC\bin\Debug\netcoreapp2.1\Restsharp.POC.pdb
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.csprojResolveAssemblyReference.cache
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.csproj.CoreCompileInputs.cache
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.AssemblyInfoInputs.cache
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.AssemblyInfo.cs
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.dll
+F:\testauto\api\Restsharp.POC\obj\Debug\netcoreapp2.1\Restsharp.POC.pdb
