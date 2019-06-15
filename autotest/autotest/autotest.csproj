@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Allure.Commons" Version="2.4.2.4" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
     <PackageReference Include="Selenium.Chrome.WebDriver" Version="74.0.0" />
     <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
@@ -26,7 +25,6 @@
     <PackageReference Include="xunit.core" Version="2.4.1" />
     <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
-    <PackageReference Include="XunitXml.TestLogger" Version="2.1.26" />
   </ItemGroup>
 
 </Project>

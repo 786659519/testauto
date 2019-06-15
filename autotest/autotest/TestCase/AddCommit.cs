@@ -30,11 +30,11 @@ namespace autotest.TestCase
             newpurchase.InputSupplier("自动化测试供应商")
                        .Save();
             Generated_purchasePage generated = new Generated_purchasePage(driver);
-            generated.InputCommit("自动化测试");
-            generated.Submit();
+            generated.InputCommit("自动化测试")
+            .Submit();
             string comment = generated.Comment();    
             Assert.Equal("自动化测试", comment);       //断言是否操作成功
-            browser.Quit();
+            //browser.Quit();
 
         }
     }

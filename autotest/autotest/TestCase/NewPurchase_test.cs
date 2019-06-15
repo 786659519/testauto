@@ -27,10 +27,9 @@ namespace autotest.TestCase
             NewPurchasePage newpurchase = new NewPurchasePage(driver);
             newpurchase.InputSupplier("自动化测试供应商")
                        .Save();
-           // Thread.Sleep(2000);
             string save = newpurchase.Save_success();    //将返回的信息 赋值给save
             Assert.Equal("成功", save);       //断言是否操作成功
-            browser.Quit();
+           // browser.Quit();
 
         }
     }

@@ -28,7 +28,8 @@ namespace autotest.PageObject
         }
         public string Delete()
         {
-           var delete = driver.FindElement(By.XPath("/html/body/div[5]/div/div[1]/p"));        //返回删除成功提示信息
+            Thread.Sleep(2000);
+            var delete = driver.FindElement(By.XPath("/html/body/div[5]/div/div[1]/p"));        //返回删除成功提示信息
             var Del = delete.Text;
             return Del;
         }

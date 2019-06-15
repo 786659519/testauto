@@ -31,6 +31,7 @@ namespace autotest.PageObject
 
 
             Thread.Sleep(3000);
+            
             var oldWinHandle = driver.CurrentWindowHandle;
             foreach (var winHandle in driver.WindowHandles)
             {
@@ -44,6 +45,7 @@ namespace autotest.PageObject
         }
         public String Success() {
 
+            driver.SwitchTo().Frame("iframeApp");
             var success = driver.FindElement(By.XPath("//*[@id='app']/div/div[3]/div/p[1]"));        //返回登录失败的提示信息
             var suc =success.Text;
             return suc;

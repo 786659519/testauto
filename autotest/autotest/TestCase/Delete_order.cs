@@ -32,9 +32,10 @@ namespace autotest.TestCase
 
             Generated_purchasePage generated = new Generated_purchasePage(driver);
             generated.Delete_order();             //删除订单
+                
             string delete= purchase.Delete();    //将返回的信息 赋值给delete
             Assert.Equal("删除成功", delete);       //断言是否操作成功
-            browser.Quit();
+            //browser.Quit();
 
 
         }

@@ -27,12 +27,15 @@ namespace autotest.PageObject
         }
 
         public void Save() {                                      //保存新建的采购订单
+
+            Thread.Sleep(2000);
             driver.FindElement(save).Click();
-          
+            Thread.Sleep(2000);
+
         }
         public string Save_success()
         {
-           
+            Thread.Sleep(2000);
             var Save_success = driver.FindElement(save_success);                 //返回保存成功的信息
             var save_1 = Save_success.Text;
             return save_1;
