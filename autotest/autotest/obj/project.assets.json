@@ -5844,11 +5844,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\autotest\\autotest\\autotest.csproj",
+      "projectUniqueName": "F:\\testauto\\autotest\\autotest\\autotest.csproj",
       "projectName": "autotest",
-      "projectPath": "C:\\Users\\asus\\Desktop\\autotest\\autotest\\autotest.csproj",
+      "projectPath": "F:\\testauto\\autotest\\autotest\\autotest.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\autotest\\autotest\\obj\\",
+      "outputPath": "F:\\testauto\\autotest\\autotest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
