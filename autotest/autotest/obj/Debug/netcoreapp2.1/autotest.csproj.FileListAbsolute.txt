@@ -40,3 +40,17 @@ C:\Users\asus\auto2test\autotest\obj\Debug\netcoreapp2.1\autotest.AssemblyInfoIn
 C:\Users\asus\auto2test\autotest\obj\Debug\netcoreapp2.1\autotest.AssemblyInfo.cs
 C:\Users\asus\auto2test\autotest\obj\Debug\netcoreapp2.1\autotest.dll
 C:\Users\asus\auto2test\autotest\obj\Debug\netcoreapp2.1\autotest.pdb
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\autotest.deps.json
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\autotest.runtimeconfig.json
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\autotest.runtimeconfig.dev.json
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\autotest.dll
+F:\testauto\autotest\autotest\bin\Debug\netcoreapp2.1\autotest.pdb
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.csprojResolveAssemblyReference.cache
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.csproj.CoreCompileInputs.cache
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.AssemblyInfoInputs.cache
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.AssemblyInfo.cs
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.dll
+F:\testauto\autotest\autotest\obj\Debug\netcoreapp2.1\autotest.pdb
