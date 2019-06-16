@@ -47,7 +47,7 @@ namespace RestSharp_1
                                                     
 
            
-            client.CookieContainer = new CookieContainer();//存储cookie
+            client.CookieContainer = new CookieContainer();//存储cookie1
 
             var requestPost = rest.RequestPost("/Login/Login");
 
