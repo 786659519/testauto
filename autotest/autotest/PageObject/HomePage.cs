@@ -46,6 +46,7 @@ namespace autotest.PageObject
         public String Success() {
 
             driver.SwitchTo().Frame("iframeApp");
+            Thread.Sleep(3000);
             var success = driver.FindElement(By.XPath("//*[@id='app']/div/div[3]/div/p[1]"));        //返回登录失败的提示信息
             var suc =success.Text;
             return suc;
