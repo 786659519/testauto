@@ -47,7 +47,7 @@ namespace autotest.PageObject
         public Generated_purchasePage Delete_order() {                                     //删除订单
             Thread.Sleep(2000);
             driver.FindElement(delete_order).Click();
-            Thread.Sleep(3000);
+            Thread.Sleep(6000);
             driver.FindElement(confirm_delete).Click();
             return this;
         }
